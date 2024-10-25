@@ -13,6 +13,7 @@
   [![flutter][flutter-shield]][flutter-url]
   
   <h1> ROQuiz</h1>
+  <h2>Tentativo di reimplementazione di questa app in C++ usando Qt6.</h2>
   <h3> Applicazione multipiattaforma per esercitarsi con i quiz del corso <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/467997">Ricerca Operativa M</a>.</h3>
   
   L'app permette di <b>simulare dei quiz d'esame</b>: vengono pescate, in modo casuale, delle domande a risposta multipla a cui l'utente deve rispondere entro un tempo limite, definito da un timer.<br/>
